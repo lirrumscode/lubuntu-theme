@@ -1,0 +1,21 @@
+{
+  "name": "lubuntu-theme",
+  "displayName": "lubuntu-theme",
+  "description": "this is a theme based on the lubuntu linux distribution",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "lubuntu theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lubuntu theme-color-theme.json"
+      }
+    ]
+  }
+}
