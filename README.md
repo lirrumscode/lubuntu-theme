@@ -1,9 +1,7 @@
 ![Panda Logo](https://lubuntu.me/wp-content/uploads/2018/10/g5586.png)
 
 A _Superminimal_, _dark_ Color Theme. This is the first major version of the **Lubuntu** theme. It's a _dark_ syntax theme crafted especially for [Visual Studio Code](https://code.visualstudio.com) [New Version], with subtle colors that are meant to be easy on the eyes and is a huge quick win if you like Lubuntu linux distribution.
-
 ---
-
 ![Main ScreenShot](!![alt text](image.png))
 ![alt text](image-1.png)
 
