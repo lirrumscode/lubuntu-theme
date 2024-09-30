@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "publisher": "lirrumscode",
   "engines": {
-    "vscode": "^1.93.0"
+    "vscode": "^1.90.0"
   },
   "categories": [
     "Themes"
