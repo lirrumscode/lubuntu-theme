@@ -1,8 +1,8 @@
 {
   "name": "lubuntu-theme",
   "displayName": "lubuntu-theme",
-  "description": "this is a theme created by Lirrumscode who's based on the lubuntu linux distribution, don't forget to follow me on social medias, my username is Lirrumscode",
-  "version": "0.0.1",
+  "description": "this is a theme created by Lirrumscode who's based on the lubuntu linux distribution",
+  "version": "0.0.2",
   "publisher": "lirrumscode",
   "engines": {
     "vscode": "^1.90.0"
