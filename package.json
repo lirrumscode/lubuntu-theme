@@ -1,8 +1,9 @@
 {
   "name": "lubuntu-theme",
   "displayName": "lubuntu-theme",
-  "description": "this is a theme based on the lubuntu linux distribution",
+  "description": "this is a theme created by Lirrumscode who's based on the lubuntu linux distribution, don't forget to follow me on social medias, my username is Lirrumscode",
   "version": "0.0.1",
+  "publisher": "lirrumscode",
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -17,5 +18,6 @@
         "path": "./themes/lubuntu theme-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "LICENSE.txt"
 }
