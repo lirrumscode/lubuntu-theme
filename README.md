@@ -2,8 +2,8 @@
 
 A _Superminimal_, _dark_ Color Theme. This is the first major version of the **Lubuntu** theme. It's a _dark_ syntax theme crafted especially for [Visual Studio Code](https://code.visualstudio.com) [0.0.1], with subtle colors that are meant to be easy on the eyes and is a huge quick win if you like Lubuntu linux distribution.
 ---
-![Main ScreenShot](!![alt text](image.png))
-![alt text](image-1.png)
+![Panda Logo](https://i.ibb.co/kHNdSL8/image.png)
+![Panda Logo](https://i.ibb.co/09r8zC9/image-1.png)
 
 > This is a screenshot as example of a code editor with some customs, is based in a MACBOOK OS, it can change if you use a Linux OS.
 ---
